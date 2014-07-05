@@ -6,7 +6,7 @@ secretary(書記)
 Usage
 --
 
-`GET http(s)://example.com/some_namespace?foo=bar&ruby=rails`
+`GET http(s)://example.com/some_namespace.gif?foo=bar&ruby=rails`
 
 ```json
 {
@@ -16,3 +16,7 @@ Usage
   }
 }
 ```
+
+`POST http(s)://example.com/some_namespace`
+
+with Request body
