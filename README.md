@@ -1,12 +1,12 @@
-secretary(書記)
+witness
 =========
-
-[WIP]いい感じにfluentdでログを取れる1x1.gifを配信する軽量サーバをデプロイするDockerfile(予定)
 
 Usage
 --
 
 `GET http(s)://example.com/some_namespace.gif?foo=bar&ruby=rails`
+
+logs following row
 
 ```json
 {
@@ -16,7 +16,3 @@ Usage
   }
 }
 ```
-
-`POST http(s)://example.com/some_namespace`
-
-with Request body
